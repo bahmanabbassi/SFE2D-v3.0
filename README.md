@@ -82,6 +82,11 @@ The full version is provided as **P-codes only** (no source `.m` in this reposit
 - Abbassi, B., and Cheng, L-Z., 2019, **Integrated feature extraction in high-dimensional geophysical imaging.** Présentation à Québec Mines + Énergie 2019. DOI: [10.13140/RG.2.2.36577.93286](https://doi.org/10.13140/RG.2.2.36577.93286)
 - SFE2D User Manual (ver. 2.0), April 2021.
 
+## Dependencies
+
+* **Fast K-means Algorithm for clustering Color Image:** ankit dixit (2026). *Fast kmeans Algorithm Code*, MATLAB Central File Exchange. Retrieved March 16, 2026. [Link](https://www.mathworks.com/matlabcentral/fileexchange/44598-fast-kmeans-algorithm-code)
+* **Fast-ICA and PCA:** Brian Moore (2026). *PCA and ICA Package*, MATLAB Central File Exchange. Consulté le 16 mars 2026. [Lien](https://www.mathworks.com/matlabcentral/fileexchange/38300-pca-and-ica-package)
+
 ---
 
 A **Demo version** (limited parameters, no license required) is available at: [https://github.com/bahmanabbassi/SFE2D-Demo](https://github.com/bahmanabbassi/SFE2D-Demo).
